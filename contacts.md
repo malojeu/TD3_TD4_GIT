@@ -9,8 +9,8 @@
   <title>Ma Page</title>
 </head>
 <body>
-  <h1>Vignolle Tanguy
-</h1>
+  <h1>Vignolle Tanguy</h1>
+  <h1>conflit local</h1>
   <!-- Autres contenus de la page -->
 </body>
 </html>
